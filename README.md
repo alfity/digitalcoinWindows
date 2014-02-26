@@ -1,0 +1,4 @@
+digitalcoinWindows
+==================
+
+DigitalCoin Windows QT
